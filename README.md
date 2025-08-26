@@ -68,10 +68,13 @@ Answer: rztbzn
 📷 ![Suspicious Service](images/Image3_Suspicious_Service.png)
 Screenshot of DeepBlueCLI output showing the suspicious service.
 
-4️⃣ Malicious executable used for reverse shell?
-Answer: serviceupdate.exe (associated with Mike Smith)
+### 4️⃣ Malicious executable used for reverse shell?
 
-📷 ![Malicious Executable](images/Image4_Malicious_Executable.png)
+**Answer:** `serviceupdate.exe` (associated with Mike Smith)
+
+**Screenshot:**  
+![Malicious Executable](images/Image4_Malicious_Executable.png)
+
 Screenshot showing the downloaded executable used to gain reverse shell.
 
 ### 5️⃣ Command line used to create additional persistence account?
