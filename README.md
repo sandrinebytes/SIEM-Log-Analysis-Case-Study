@@ -80,7 +80,7 @@ Screenshot of DeepBlueCLI output showing the suspicious service.
 **Answer:** `serviceupdate.exe` (associated with Mike Smith)
 
 **Screenshot:**  
-![Malicious Executable](images/Image4_Malicious_Executable.png)
+📷![Malicious Executable](Image4_Malicious_Executable.png)
 
 Screenshot showing the downloaded executable used to gain reverse shell.
 
@@ -89,7 +89,7 @@ Screenshot showing the downloaded executable used to gain reverse shell.
 **Answer:** `net user ServiceAct /add`
 
 **Screenshot:**  
-![Persistence Account](Image5_Persistence_Account.png)
+📷![Persistence Account](Image5_Persistence_Account.png)
 
 Screenshot showing the command that created the additional account for persistence.
 
