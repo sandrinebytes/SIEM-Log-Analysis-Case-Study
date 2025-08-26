@@ -71,7 +71,7 @@ Screenshot showing the log entry indicating Meterpreter activity.
 **Answer:** `rztbzn`
 
 **Screenshot:**  
-![Suspicious Service](images/Image3_Suspicious_Service.png)
+📷![Suspicious Service](Image3_Suspicious_Service.png)
 
 Screenshot of DeepBlueCLI output showing the suspicious service.
 
