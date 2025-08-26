@@ -46,26 +46,33 @@ flowchart TD
 
 # Incident Response Findings
 
-## 1️⃣ Which user account ran GoogleUpdate.exe?  
-**Answer:** Mike Smith  
+## 1️⃣ Which user account ran GoogleUpdate.exe?
 
-📷 ![GoogleUpdate Account](images/Image1_GoogleUpdate_User.png)  
+**Answer:** Mike Smith
 
-*Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.exe.*  
+**Screenshot:**  
+![GoogleUpdate Account](images/Image1_GoogleUpdate_User.png)
+
+Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.exe.
 
 ---
 
-## 2️⃣ Evidence of Meterpreter activity?  
-**Answer:** 04/10/2021 10:48:14 AM  
+## 2️⃣ Evidence of Meterpreter activity?
 
-📷 ![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)  
+**Answer:** 04/10/2021 10:48:14 AM
 
-*Screenshot showing the log entry indicating Meterpreter activity.*  
+**Screenshot:**  
+![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)
 
-3️⃣ Name of the suspicious service created?
-Answer: rztbzn
+Screenshot showing the log entry indicating Meterpreter activity.
 
-📷 ![Suspicious Service](images/Image3_Suspicious_Service.png)
+### 3️⃣ Name of the suspicious service created?
+
+**Answer:** `rztbzn`
+
+**Screenshot:**  
+![Suspicious Service](images/Image3_Suspicious_Service.png)
+
 Screenshot of DeepBlueCLI output showing the suspicious service.
 
 ### 4️⃣ Malicious executable used for reverse shell?
