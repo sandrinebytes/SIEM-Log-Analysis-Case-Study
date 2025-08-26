@@ -64,15 +64,15 @@ flowchart TD
 
 3️⃣ Name of the suspicious service created?
 Answer: rztbzn
-📷 
+📷 ![Suspicious Service](images/Image3_Suspicious_Service.png)
 Screenshot of DeepBlueCLI output showing the suspicious service.
 
 4️⃣ Malicious executable used for reverse shell?
 Answer: serviceupdate.exe (associated with Mike Smith)
-📷 
+📷 ![Malicious Executable](images/Image4_Malicious_Executable.png)
 Screenshot showing the downloaded executable used to gain reverse shell.
 
 5️⃣ Command line used to create additional persistence account?
 Answer: net user ServiceAct /add
-📷 
+📷 ![Persistence Account](images/Image5_Persistence_Account.png)
 Screenshot showing the command that created the additional account for persistence.
