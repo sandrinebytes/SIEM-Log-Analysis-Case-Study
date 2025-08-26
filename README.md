@@ -66,10 +66,12 @@ flowchart TD
 Answer: rztbzn
 📷 
 Screenshot of DeepBlueCLI output showing the suspicious service.
+
 4️⃣ Malicious executable used for reverse shell?
 Answer: serviceupdate.exe (associated with Mike Smith)
 📷 
 Screenshot showing the downloaded executable used to gain reverse shell.
+
 5️⃣ Command line used to create additional persistence account?
 Answer: net user ServiceAct /add
 📷 
