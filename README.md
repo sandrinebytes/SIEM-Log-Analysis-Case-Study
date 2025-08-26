@@ -51,7 +51,7 @@ flowchart TD
 **Answer:** `Mike Smith`
 
 **Screenshot:**  
-![GoogleUpdate Account](images/Image1_GoogleUpdate_User.png)
+📷![GoogleUpdate Account](Image1_GoogleUpdate_User.png)
 
 Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.exe.
 
