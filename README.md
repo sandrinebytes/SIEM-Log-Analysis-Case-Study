@@ -20,7 +20,7 @@ This case study demonstrates practical SOC skills, including log analysis, threa
 Perform a SIEM log analysis and incident response mini-case study on a Windows system compromised with a Meterpreter reverse shell. Investigate logs, identify malicious activity, and document the process like a SOC report.
 
 ---
-## Skills Highlight 🌸
+## Skills Highlight 
 
 In this case study, the following SOC skills and tools were applied:  
 - **SIEM Analysis:** Using DeepBlueCLI to parse and investigate Security.evtx logs.  
@@ -29,6 +29,19 @@ In this case study, the following SOC skills and tools were applied:
 - **Incident Response Documentation:** Capturing screenshots, recording timestamps, and reporting findings.  
 - **Windows Command Line Tools:** `net user`, `sc query`, `tasklist`, and related commands.  
 - **Threat Identification:** Detecting Meterpreter activity and reverse shell exploitation.
+---
+## Methodology 
+
+The approach to this SIEM log analysis case study was structured to mimic a professional SOC investigation:
+
+1. **Initial Log Collection:** Gathered Security.evtx logs from the compromised Windows system to analyze all relevant events.  
+2. **Automated Log Parsing:** Used DeepBlueCLI to efficiently parse logs and highlight suspicious processes, services, and account activity.  
+3. **Suspicious Activity Identification:** Reviewed parsed logs for unusual executables, newly created services, and Meterpreter reverse shell indicators.  
+4. **Persistence Detection:** Tracked account creation events and service modifications to identify persistence mechanisms employed by the attacker.  
+5. **Correlating Findings:** Matched timestamps, processes, and accounts to build a timeline of the compromise.  
+6. **Documentation:** Recorded commands, screenshots, and observations to ensure clear reporting and reproducibility.  
+
+This methodology ensures a thorough, systematic investigation, allowing SOC analysts to detect, document, and respond to incidents effectively. 
 ---
 ## Implemented Solutions / Investigation Steps
 - Opened terminal in the lab environment.
