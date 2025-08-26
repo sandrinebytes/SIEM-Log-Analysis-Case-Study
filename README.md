@@ -61,3 +61,16 @@ flowchart TD
 📷 ![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)  
 
 *Screenshot showing the log entry indicating Meterpreter activity.*  
+
+3️⃣ Name of the suspicious service created?
+Answer: rztbzn
+📷 
+Screenshot of DeepBlueCLI output showing the suspicious service.
+4️⃣ Malicious executable used for reverse shell?
+Answer: serviceupdate.exe (associated with Mike Smith)
+📷 
+Screenshot showing the downloaded executable used to gain reverse shell.
+5️⃣ Command line used to create additional persistence account?
+Answer: net user ServiceAct /add
+📷 
+Screenshot showing the command that created the additional account for persistence.
