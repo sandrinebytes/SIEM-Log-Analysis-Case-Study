@@ -107,6 +107,7 @@ Screenshot showing the log entry indicating Meterpreter activity.
 
 **Screenshot:**  
 📷
+
 ![Suspicious Service](Image3_Suspicious_Service.png)
 
 Screenshot of DeepBlueCLI output showing the suspicious service.
