@@ -1,7 +1,20 @@
 # SIEM-Log-Analysis-Case-Study
-A hands-on SIEM log analysis and incident response mini-case study. Investigates a compromised Windows system using DeepBlueCLI, documenting suspicious activity, malicious executables, persistence accounts, and SOC-style findings with screenshots and commands.
 
-# SIEM-Log-Analysis-Case-Study
+## Case Study Overview
+
+This repository presents a hands-on Security Operations Center (SOC) case study focused on analyzing a potentially compromised Windows system. The scenario involves investigating suspicious activity, identifying malicious executables, persistence mechanisms, and unauthorized user accounts.  
+
+**Objectives:** 
+- Detect and analyze malicious activity within system logs.  
+- Identify indicators of compromise (IoCs) such as malware, suspicious services, and persistence accounts.  
+- Document findings clearly for incident response and reporting purposes.  
+
+**Tools Used:** 
+- **DeepBlueCLI** – for automated log parsing and analysis.  
+- **Windows Command Line Utilities** – for identifying user accounts, services, and executables.  
+- **Screenshots** – to visually document key findings for clarity and reporting.  
+
+This case study demonstrates practical SOC skills, including log analysis, threat detection, and persistence investigation, providing a clear, step-by-step overview of the incident response process.
 
 ## Project Objectives
 Perform a SIEM log analysis and incident response mini-case study on a Windows system compromised with a Meterpreter reverse shell. Investigate logs, identify malicious activity, and document the process like a SOC report.
