@@ -44,3 +44,20 @@ flowchart TD
 
 ## Questions and Answers
 
+# Incident Response Findings
+
+## 1️⃣ Which user account ran GoogleUpdate.exe?  
+**Answer:** Mike Smith  
+
+📷 ![GoogleUpdate Account](images/Image1_GoogleUpdate_User.png)  
+
+*Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.exe.*  
+
+---
+
+## 2️⃣ Evidence of Meterpreter activity?  
+**Answer:** 04/10/2021 10:48:14 AM  
+
+📷 ![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)  
+
+*Screenshot showing the log entry indicating Meterpreter activity.*  
