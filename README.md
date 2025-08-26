@@ -89,7 +89,7 @@ Screenshot showing the downloaded executable used to gain reverse shell.
 **Answer:** `net user ServiceAct /add`
 
 **Screenshot:**  
-![Persistence Account](images/Image5_Persistence_Account)
+![Persistence Account](images/Image5_Persistence_Account.png)
 
 Screenshot showing the command that created the additional account for persistence.
 
