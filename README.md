@@ -48,7 +48,7 @@ flowchart TD
 
 ## 1️⃣ Which user account ran GoogleUpdate.exe?
 
-**Answer:** Mike Smith
+**Answer:** `Mike Smith`
 
 **Screenshot:**  
 ![GoogleUpdate Account](images/Image1_GoogleUpdate_User.png)
@@ -59,7 +59,7 @@ Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.
 
 ## 2️⃣ Evidence of Meterpreter activity?
 
-**Answer:** 04/10/2021 10:48:14 AM
+**Answer:** `04/10/2021 10:48:14 AM`
 
 **Screenshot:**  
 ![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)
