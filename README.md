@@ -77,7 +77,7 @@ Screenshot showing the downloaded executable used to gain reverse shell.
 5️⃣ Command line used to create additional persistence account?
 Answer: net user ServiceAct /add
 
-![Persistence Account](images/Image5_Persistence_Account.png)
+📷[View Persistence Account](images/Image5_Persistence_Account)
 
 Screenshot showing the command that created the additional account for persistence.
 
