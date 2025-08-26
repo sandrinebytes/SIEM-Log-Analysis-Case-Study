@@ -32,4 +32,15 @@ flowchart TD
     G --> H[Document Results & Screenshots]
     H --> I[End: Incident Report / GitHub Case Study]
 ```
+## Commands and Queries
+| Step | Command / Query | Purpose |
+|------|-----------------|---------|
+| 1 | `./DeepBlue.ps1 ../security.evtx` | Open Security.evtx and list executed processes |
+| 2 | Search for ‚ÄúMetasploit‚Äù in output | Identify Meterpreter activity timestamp |
+| 3 | Examine service creation events | Detect suspicious service (rztbzn) |
+| 4 | Filter process creation events between 10:30‚Äì10:50 | Identify malicious executable (serviceupdate.exe) |
+| 5 | Look at user creation events between 11:25‚Äì11:40 | Find command used to create persistent account (`net user ServiceAct /add`) |
+| 6 | Check group membership for new account | Identify local groups: Administrators, Remote Desktop Users |
+
+## Questions and Answers
 
