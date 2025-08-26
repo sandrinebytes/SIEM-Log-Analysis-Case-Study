@@ -62,7 +62,7 @@ Screenshot of DeepBlueCLI output showing user account execution of GoogleUpdate.
 **Answer:** `04/10/2021 10:48:14 AM`
 
 **Screenshot:**  
-![Meterpreter Activity](images/Image2_Meterpreter_Activity.png)
+📷![Meterpreter Activity](Image2_Meterpreter_Activity.png)
 
 Screenshot showing the log entry indicating Meterpreter activity.
 
