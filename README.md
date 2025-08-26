@@ -20,7 +20,16 @@ This case study demonstrates practical SOC skills, including log analysis, threa
 Perform a SIEM log analysis and incident response mini-case study on a Windows system compromised with a Meterpreter reverse shell. Investigate logs, identify malicious activity, and document the process like a SOC report.
 
 ---
+## Skills Highlight 🌸
 
+In this case study, the following SOC skills and tools were applied:  
+- **SIEM Analysis:** Using DeepBlueCLI to parse and investigate Security.evtx logs.  
+- **Log Correlation:** Identifying suspicious executables, services, and account activity.  
+- **Persistence Detection:** Finding unauthorized accounts and services created by attackers.  
+- **Incident Response Documentation:** Capturing screenshots, recording timestamps, and reporting findings.  
+- **Windows Command Line Tools:** `net user`, `sc query`, `tasklist`, and related commands.  
+- **Threat Identification:** Detecting Meterpreter activity and reverse shell exploitation.
+---
 ## Implemented Solutions / Investigation Steps
 - Opened terminal in the lab environment.
 - Ran DeepBlueCLI:
